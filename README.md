@@ -15,10 +15,6 @@ npm install
 ```
 npm start
 ```
-4. visit this url in your browser
-```
-localhost:8000 
-```
 
 ## Routes
 1. Route for registering the doctor. It'll require three form fields, `email`, `username` and `password`. And email should be unique for each doctor.
